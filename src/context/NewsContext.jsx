@@ -1,7 +1,7 @@
 import { createContext, useContext, useState } from "react";
 import api from "../config/axios";
 
-// https://newsapi.org/v2/everything?q=bitcoin&apiKey=b6193def25de474482ae3bb66d655050
+
 
 //create context
 //provide
